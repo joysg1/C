@@ -1,0 +1,101 @@
+
+2024-01-28|Salvado de trigo|8.32|104|desarrollo|Avícola Norte|16.64|Registro automático 1
+2024-03-08|Pasta de algodón|15.75|105|engorde|Minerales SAC|31.50|Registro automático 2
+2024-04-17|Sorgo|6.64|83|desarrollo|Cereales del Valle|13.28|Registro automático 3
+2024-03-16|Harina de pescado|7.60|95|desarrollo|Granos S.A.|15.20|Registro automático 4
+2024-04-10|Pasta de algodón|27.90|186|engorde|NutriAvícola|55.80|Registro automático 5
+2024-04-13|Salvado de trigo|24.96|208|postura|Avícola Norte|49.92|Registro automático 6
+2024-04-14|Harina de soya|18.72|156|postura|Cereales del Valle|59.90|Registro automático 7
+2024-03-16|Aceite vegetal|14.22|237|polla|Proteínas Ltda.|28.44|Registro automático 8
+2024-03-15|Aceite vegetal|27.15|181|engorde|Avícola Norte|54.30|Registro automático 9
+2024-04-20|Conchuela|16.68|139|postura|Avícola Norte|58.38|Registro automático 10
+2024-02-09|Salvado de trigo|6.00|100|polla|Cereales del Valle|12.00|Registro automático 11
+2024-02-28|Maíz molido|9.48|79|postura|Avícola Norte|17.06|Registro automático 12
+2024-01-09|Maíz molido|21.36|178|postura|Cereales del Valle|38.44|Registro automático 13
+2024-02-15|Cebada|11.28|141|desarrollo|Minerales SAC|22.56|Registro automático 14
+2024-03-03|Pasta de algodón|17.10|285|polla|Granos S.A.|34.20|Registro automático 15
+2024-03-10|Conchuela|12.24|153|desarrollo|Granos S.A.|42.84|Registro automático 16
+2024-04-13|Cebada|5.76|72|desarrollo|NutriAvícola|11.52|Registro automático 17
+2024-03-03|Afrecho de arroz|29.52|246|postura|Proteínas Ltda.|59.04|Registro automático 18
+2024-02-03|Harina de pescado|9.36|117|desarrollo|Avícola Norte|18.72|Registro automático 19
+2024-05-09|Aceite vegetal|21.15|141|engorde|Minerales SAC|42.30|Registro automático 20
+2024-01-22|Cebada|4.72|59|desarrollo|Minerales SAC|9.44|Registro automático 21
+2024-02-25|Premezcla vitaminas|33.45|223|engorde|Cereales del Valle|66.90|Registro automático 22
+2024-04-05|Premezcla vitaminas|9.66|161|polla|Avícola Norte|19.32|Registro automático 23
+2024-01-06|Aceite vegetal|30.90|206|engorde|NutriAvícola|61.80|Registro automático 24
+2024-05-03|Sorgo|5.52|69|desarrollo|Avícola Norte|11.04|Registro automático 25
+2024-03-06|Harina de soya|4.88|61|desarrollo|Proteínas Ltda.|15.61|Registro automático 26
+2024-02-18|Harina de soya|33.90|226|engorde|Avícola Norte|108.48|Registro automático 27
+2024-02-23|Conchuela|22.00|275|desarrollo|Proteínas Ltda.|77.00|Registro automático 28
+2024-04-25|Cebada|18.84|157|postura|Avícola Norte|37.68|Registro automático 29
+2024-04-15|Harina de soya|25.35|169|engorde|NutriAvícola|81.12|Registro automático 30
+2024-01-15|Afrecho de arroz|5.20|65|desarrollo|Avícola Norte|10.40|Registro automático 31
+2024-04-27|Salvado de trigo|10.05|67|engorde|Cereales del Valle|20.10|Registro automático 32
+2024-01-19|Trigo|27.00|225|postura|Cereales del Valle|54.00|Registro automático 33
+2024-05-07|Premezcla vitaminas|10.05|67|engorde|Cereales del Valle|20.10|Registro automático 34
+2024-04-11|Maíz molido|16.56|138|postura|Granos S.A.|29.80|Registro automático 35
+2024-01-05|Aceite vegetal|7.28|91|desarrollo|Cereales del Valle|14.56|Registro automático 36
+2024-05-03|Salvado de trigo|42.75|285|engorde|Granos S.A.|85.50|Registro automático 37
+2024-04-19|Harina de pescado|45.00|300|engorde|NutriAvícola|90.00|Registro automático 38
+2024-04-28|Harina de soya|34.32|286|postura|Granos S.A.|109.82|Registro automático 39
+2024-05-01|Pasta de algodón|4.68|78|polla|Cereales del Valle|9.36|Registro automático 40
+2024-01-21|Sorgo|39.15|261|engorde|Avícola Norte|78.30|Registro automático 41
+2024-05-07|Harina de soya|9.04|113|desarrollo|Granos S.A.|28.92|Registro automático 42
+2024-01-22|Pasta de algodón|8.40|140|polla|Cereales del Valle|16.80|Registro automático 43
+2024-05-10|Harina de soya|3.00|50|polla|NutriAvícola|9.60|Registro automático 44
+2024-01-18|Trigo|44.55|297|engorde|NutriAvícola|89.10|Registro automático 45
+2024-03-12|Salvado de trigo|15.12|126|postura|Cereales del Valle|30.24|Registro automático 46
+2024-01-10|Premezcla vitaminas|6.42|107|polla|NutriAvícola|12.84|Registro automático 47
+2024-01-09|Cebada|13.20|165|desarrollo|Granos S.A.|26.40|Registro automático 48
+2024-03-07|Sorgo|12.80|160|desarrollo|Proteínas Ltda.|25.60|Registro automático 49
+2024-03-16|Maíz molido|7.26|121|polla|Minerales SAC|13.06|Registro automático 50
+2024-02-19|Salvado de trigo|27.00|225|postura|Granos S.A.|54.00|Registro automático 51
+2024-03-19|Trigo|5.28|66|desarrollo|NutriAvícola|10.56|Registro automático 52
+2024-05-17|Harina de pescado|4.62|77|polla|Avícola Norte|9.24|Registro automático 53
+2024-04-22|Premezcla vitaminas|6.96|116|polla|Cereales del Valle|13.92|Registro automático 54
+2024-02-01|Afrecho de arroz|18.96|237|desarrollo|NutriAvícola|37.92|Registro automático 55
+2024-01-15|Harina de pescado|12.40|155|desarrollo|NutriAvícola|24.80|Registro automático 56
+2024-03-16|Premezcla vitaminas|9.54|159|polla|Avícola Norte|19.08|Registro automático 57
+2024-01-15|Premezcla vitaminas|8.58|143|polla|Minerales SAC|17.16|Registro automático 58
+2024-01-08|Pasta de algodón|18.96|237|desarrollo|Granos S.A.|37.92|Registro automático 59
+2024-05-17|Conchuela|15.36|128|postura|Avícola Norte|53.76|Registro automático 60
+2024-05-12|Aceite vegetal|15.48|129|postura|Minerales SAC|30.96|Registro automático 61
+2024-01-20|Salvado de trigo|10.00|125|desarrollo|Minerales SAC|20.00|Registro automático 62
+2024-02-21|Trigo|11.04|92|postura|NutriAvícola|22.08|Registro automático 63
+2024-03-19|Cebada|15.06|251|polla|Granos S.A.|30.12|Registro automático 64
+2024-04-17|Aceite vegetal|34.50|230|engorde|NutriAvícola|69.00|Registro automático 65
+2024-05-08|Conchuela|13.92|174|desarrollo|NutriAvícola|48.72|Registro automático 66
+2024-01-17|Pasta de algodón|5.12|64|desarrollo|Proteínas Ltda.|10.24|Registro automático 67
+2024-01-23|Sorgo|6.48|54|postura|Granos S.A.|12.96|Registro automático 68
+2024-03-22|Harina de pescado|43.20|288|engorde|Minerales SAC|86.40|Registro automático 69
+2024-01-20|Trigo|6.96|116|polla|NutriAvícola|13.92|Registro automático 70
+2024-02-20|Conchuela|26.85|179|engorde|Proteínas Ltda.|93.97|Registro automático 71
+2024-04-17|Pasta de algodón|40.20|268|engorde|Proteínas Ltda.|80.40|Registro automático 72
+2024-04-18|Trigo|12.72|106|postura|NutriAvícola|25.44|Registro automático 73
+2024-05-26|Aceite vegetal|12.72|159|desarrollo|Avícola Norte|25.44|Registro automático 74
+2024-05-09|Conchuela|23.64|197|postura|Cereales del Valle|82.74|Registro automático 75
+2024-01-23|Conchuela|10.24|128|desarrollo|NutriAvícola|35.84|Registro automático 76
+2024-03-27|Conchuela|35.88|299|postura|Avícola Norte|125.58|Registro automático 77
+2024-04-04|Sorgo|32.10|214|engorde|Cereales del Valle|64.20|Registro automático 78
+2024-04-10|Pasta de algodón|15.28|191|desarrollo|Avícola Norte|30.56|Registro automático 79
+2024-05-14|Premezcla vitaminas|27.60|230|postura|Cereales del Valle|55.20|Registro automático 80
+2024-05-03|Conchuela|15.36|256|polla|Avícola Norte|53.76|Registro automático 81
+2024-01-06|Cebada|13.08|109|postura|Minerales SAC|26.16|Registro automático 82
+2024-05-01|Conchuela|21.36|267|desarrollo|Avícola Norte|74.76|Registro automático 83
+2024-03-15|Pasta de algodón|7.04|88|desarrollo|NutriAvícola|14.08|Registro automático 84
+2024-04-07|Aceite vegetal|19.44|243|desarrollo|Cereales del Valle|38.88|Registro automático 85
+2024-03-11|Cebada|36.15|241|engorde|Cereales del Valle|72.30|Registro automático 86
+2024-02-20|Harina de pescado|10.32|86|postura|Minerales SAC|20.64|Registro automático 87
+2024-04-23|Pasta de algodón|11.28|141|desarrollo|Cereales del Valle|22.56|Registro automático 88
+2024-04-26|Sorgo|6.60|110|polla|Cereales del Valle|13.20|Registro automático 89
+2024-03-06|Afrecho de arroz|20.64|172|postura|Avícola Norte|41.28|Registro automático 90
+2024-03-18|Pasta de algodón|34.92|291|postura|Avícola Norte|69.84|Registro automático 91
+2024-05-23|Sorgo|13.92|116|postura|Proteínas Ltda.|27.84|Registro automático 92
+2024-03-16|Harina de pescado|32.88|274|postura|NutriAvícola|65.76|Registro automático 93
+2024-01-09|Salvado de trigo|15.24|254|polla|NutriAvícola|30.48|Registro automático 94
+2024-05-06|Afrecho de arroz|39.00|260|engorde|Cereales del Valle|78.00|Registro automático 95
+2024-04-24|Cebada|20.40|255|desarrollo|Minerales SAC|40.80|Registro automático 96
+2024-02-28|Sorgo|25.68|214|postura|Proteínas Ltda.|51.36|Registro automático 97
+2024-05-22|Sorgo|21.24|177|postura|Avícola Norte|42.48|Registro automático 98
+2024-03-11|Aceite vegetal|23.76|198|postura|Proteínas Ltda.|47.52|Registro automático 99
+2024-05-12|Harina de soya|18.32|229|desarrollo|Granos S.A.|58.62|Registro automático 100

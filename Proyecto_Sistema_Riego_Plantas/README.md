@@ -15,7 +15,7 @@ Sistema desarrollado en C para el registro y control del riego de plantas orname
  ## Ejecutar el sistema:
 ./sistema_riego
 
-## Reestablecer los registros ejecutar:
+## Reestablecer los registros:
 ./generar_registros.sh
 
 

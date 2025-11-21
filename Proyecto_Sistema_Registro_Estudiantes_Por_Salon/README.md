@@ -12,11 +12,10 @@ Sistema desarrollado en C para el registro y gestión de matrículas de estudian
 - ✅ Compatible con Linux (Manjaro, Ubuntu, etc.)
 
 ## Estructura del Proyecto
-/
-├── sistema_matricula.c # Código fuente principal
-├── Makefile # Script de compilación
-├── README.md # Este archivo
-└── estudiantes.txt # Base de datos (se crea automáticamente)
+-- sistema_matricula.c # Código fuente principal
+-- Makefile # Script de compilación
+-- README.md # Este archivo
+-- estudiantes.txt # Base de datos (se crea automáticamente)
 
 ## Requisitos
 - Compilador GCC

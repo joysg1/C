@@ -1,0 +1,20 @@
+1|Pan Blanco|Panaderia|3.00|50
+2|Pan Integral|Panaderia|3.50|35
+3|Baguette|Panaderia|4.00|20
+4|Croissant|Panaderia|2.50|40
+5|Pan de Molde|Panaderia|5.00|25
+6|Leche Entera|Lacteos|2.50|100
+7|Queso Blanco|Lacteos|6.50|30
+8|Yogurt Natural|Lacteos|1.80|60
+9|Mantequilla|Lacteos|4.20|45
+10|Crema de Leche|Lacteos|3.50|35
+11|Arroz Blanco|Granos|8.00|80
+12|Frijoles Negros|Granos|5.50|70
+13|Lentejas|Granos|6.00|55
+14|Pasta Espagueti|Granos|3.80|90
+15|Harina de Trigo|Granos|4.50|65
+16|Aceite Vegetal|Aceites|7.50|40
+17|Aceite de Oliva|Aceites|15.00|20
+18|Vinagre Blanco|Condimentos|2.80|50
+19|Sal de Mesa|Condimentos|1.50|100
+20|Azucar Blanca|Endulzantes|4.00|75

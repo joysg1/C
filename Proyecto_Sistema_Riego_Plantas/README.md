@@ -12,10 +12,10 @@ Sistema desarrollado en C para el registro y control del riego de plantas orname
 - ✅ Almacenamiento persistente en archivo de texto
 - ✅ Compatible con Linux (Manjaro, Ubuntu, etc.)
 
-++ Ejecutar
+ ## Ejecutar el sistema:
 ./sistema_riego
 
-++ Nota para restablecer los registros ejecutar:
+## Reestablecer los registros ejecutar:
 ./generar_registros.sh
 
 

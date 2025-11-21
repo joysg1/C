@@ -1,0 +1,6 @@
+1,Juan,Perez,20,A101,Ingenieria de Software
+2,Maria,Garcia,19,A101,Ingenieria de Sistemas
+3,Carlos,Lopez,21,B205,Medicina
+4,Ana,Martinez,20,B205,Enfermeria
+5,Pedro,Rodriguez,22,C304,Derecho
+6,Marcos,Garcia,23,A-101,Enfermería
